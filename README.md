@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walter <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate A passionate student of Computer Science and a video game developer (and data analyst) developer from Argentina</h3>
+<h3 align="center">A passionate student of Computer Science and a video game developer (and data analyst) developer from Argentina</h3>
 
 - 🔭 I’m currently working on my **JavaScrypt Course**
 
