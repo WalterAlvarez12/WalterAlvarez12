@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walter <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate JavaScrypt and Front-End (and a beginner designer) developer from Argentina</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **JavaScrypt Course**
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
 
