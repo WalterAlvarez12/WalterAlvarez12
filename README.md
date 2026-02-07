@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Walter <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate JavaScrypt and Front-End (and a beginner designer) developer from Argentina</h3>
+<h3 align="center">A passionate A passionate student of Computer Science and a video game developer (and data analyst) developer from Argentina</h3>
 
 - 🔭 I’m currently working on my **JavaScrypt Course**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **JavaScrypt, HTML, CSS and Power BI**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 How to reach me: **walter_alvarez_12@hotmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: **I like so much reading, gym and running...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
